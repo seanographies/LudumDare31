@@ -1,4 +1,4 @@
-LudumDare31
+Grown Ups Frequency - Ludum Dare 31 Jam submission
 ===========
 
 For my Ludum Dare 31 Jam submission Grown Ups Frequency
